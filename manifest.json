@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie Manager",
+  "version": "1.0",
+  "description": "Универсальное сохранение и загрузка кук для любых сайтов",
+  "permissions": [
+    "cookies",
+    "activeTab",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Cookie Manager"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
