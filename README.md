@@ -19,7 +19,7 @@
 1. **Скачайте или склонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/cookie-manager.git
+   git clone https://github.com/netkaruma/Cookie_manager
 или просто скачайте ZIP-архив и распакуйте его.
 
 2. **Откройте страницу расширений в браузере**
